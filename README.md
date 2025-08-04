@@ -124,4 +124,4 @@ Licensed under the [MIT](LICENSE.txt) license.
     </a>
 </p>
 
-<p align="justify"> This project was developed as part of ongoing learning about blockchain technology and software development. Feel free to explore and contribute! </p>
+<p align="justify"> This project was developed as part of ongoing learning about blockchain technology and software development. Feel free to explore and contribute. </p>
